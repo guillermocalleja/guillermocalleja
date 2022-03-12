@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @guillermocalleja
-- 👀 I’m interested in Node.js, Fastify, NestJS, Angular, Ionic, Capacitor, Rest API and Microservices.
+- 👀 I’m interested in NodeJS, Fastify, NestJS, Angular, Ionic, Capacitor, Rest API and Microservices.
 - 🌱 I’m currently learning Fastify and NestJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
