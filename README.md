@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @guillermocalleja
-- 👀 I’m interested in NodeJS, Fastify, NestJS, Angular, React, Ionic, Capacitor, Rest API, Microservices and Testing.
-- 🌱 I’m currently learning NextJS, SvelteKit and AWS Serverless Architecture.
+- 👀 I’m interested in NodeJS, Fastify, NestJS, Angular, Ionic, Capacitor, Rest API, GraphQL, Microservices and Testing.
+- 🌱 I’m currently learning SvelteKit and AWS Serverless Architecture.
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
