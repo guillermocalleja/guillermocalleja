@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @guillermocalleja
 - 👀 I’m interested in NodeJS, TypeScript, NEXT, React, Angular, Ionic, Capacitor, NestJS, Rest API, GraphQL, tRCP, Microservices and Testing.
-- 🌱 I’m currently learning Serverless Architecture and Monorepos.
+- 🌱 I’m currently learning Serverless Architecture, Deno and Fresh.
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
