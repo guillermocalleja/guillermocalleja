@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @guillermocalleja
-- 👀 I’m interested in NodeJS, Bun, TypeScript, NEXT.js, React, Astro, Rest API, WebHooks, Microservices and Testing.
-- 🌱 I’m currently learning Serverless Architecture.
+- 👀 I’m interested in NodeJS, Bun, Javascript, TypeScript, NEXT.js, React, Astro, Rest API, WebHooks and Testing.
 <!---
+- 🌱 I’m currently learning Serverless Architecture.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 --->
