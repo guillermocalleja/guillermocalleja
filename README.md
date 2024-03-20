@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @guillermocalleja
-- 👀 I’m interested in JavaScript, TypeScript, Rust and SQL ecosystem. I like to work with React, NEXT.js, Astro, Hono.js, Node.js, Rest API, WebHooks and Testing.
+- 👀 I’m interested in JavaScript, TypeScript, Rust, SQL ecosystem and Testing. I like to work with React, NEXT.js, Astro, Hono.js, Node.js, Rest API, WebHooks, Cron Jobs ans Queues.
 
-- 🌱 I’m currently learning Serverless Architecture, focus mainly on Cloudflare.
+- 🌱 I’m currently learning Serverless Architecture, focus mainly on Cloudflare and AI-powered Apps development.
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
