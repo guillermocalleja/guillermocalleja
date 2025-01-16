@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @guillermocalleja
-- 👀 I’m interested in TypeScript, JavaScript, Python, Go, SQL, Vector Databases and AI. I like to work with React, Astro, Hono.js, PocketBase, LangChain and AI Agents.
+- 👀 I’m interested in TypeScript, JavaScript, Python, Go, SQL, Vector Databases and AI. I like to work with React, Astro, Hono.js, PocketBase, LangChain, LLamaIndex and AI Agents.
 
 - 🌱 I’m currently learning Serverless Architecture, focus mainly on Cloudflare and AI-powered Apps development.
 <!---
